@@ -15,6 +15,14 @@
 |   声卡   |                        Realtek ALC235                        |
 |   网卡   | Intel AX201，已更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
 
+## 更新日志
+
+- 10-13-2020
+  - 支持`Big Sur` / `Catalina`安装使用
+  - 支持`DP` + `HDMI`双显
+  - 声卡驱动完美，包括显示器音频输出功能正常
+  - 网卡驱动默认为：`DW1820A`，如果使用`INTEL`无线网卡请在配置文件中勾选三个驱动
+
 ## 截屏
 
 ![S510Mini](./ScreenShots/S510Mini.jpg)
@@ -35,4 +43,3 @@
 
 ## EFI下载
 
-该机型刚适配完，还在完善中，不日即可提供下载。敬请期待！
