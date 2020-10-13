@@ -43,3 +43,4 @@
 
 ## EFI下载
 
+https://github.com/daliansky/Lenovo-TianYi-510S-Mini-Hackintosh/releases/
