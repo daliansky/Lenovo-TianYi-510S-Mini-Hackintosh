@@ -398,7 +398,7 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<key>#PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
@@ -431,6 +431,49 @@
 				<data>YwAAAA==</data>
 				<key>model</key>
 				<string>Comet Lake PCH cAVS</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAABA==</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>#AAPL02,override-no-connect</key>
+				<data>AP///////wAQrOygTFQwMSIcAQS1PSN4Pu6Vo1RMmSYPUFSlSwBxT4GAqcCpQNHA4QDRAAEBTdAAoPBwPoAwIDUAYV0hAAAaAAAA/wA1RFdSSDg4SjEwVEwKAAAA/ABERUxMIFUyNzE4UQogAAAA/QAxVgqJNgAKICAgICAgAbECAx3xUBAfIAUUBBMSEQMCFhUHBgEjCR8HgwEAAFZeAKCgoClQMCA1AGFdIQAAGqNmAKDwcB+AMCA1AGFdIQAAGk3QAKDwcD6AMCA1AGFdIQAAGgI6gBhxOC1AWCwlAGFdIQAAHr8WAKCAOBNAMCA6AGFdIQAAGgAAAAAAAAAASg==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
+				<key>#0备注：如果想单独使用HDMI输出显示，请启用#AAPL0x这两行关于显示器的注入信息，也可以替换成自己的显示器的EDID值</key>
+				<data></data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>framebuffer-con0-alldata</key>
+				<data>AQUJAAAIAADHAwAA</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>BwCbPg==</data>
+				<key>framebuffer-con2-alldata</key>
+				<data>AwQIAAAIAADHAwAA</data>
+				<key>framebuffer-con1-alldata</key>
+				<data>AgAKAAAIAADHAwAA</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>device_type</key>
+				<string>VGA Compatible controller</string>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
+				<key>#AAPL00,override-no-connect</key>
+				<data>AP///////wAQrOygTFQwMSIcAQS1PSN4Pu6Vo1RMmSYPUFSlSwBxT4GAqcCpQNHA4QDRAAEBTdAAoPBwPoAwIDUAYV0hAAAaAAAA/wA1RFdSSDg4SjEwVEwKAAAA/ABERUxMIFUyNzE4UQogAAAA/QAxVgqJNgAKICAgICAgAbECAx3xUBAfIAUUBBMSEQMCFhUHBgEjCR8HgwEAAFZeAKCgoClQMCA1AGFdIQAAGqNmAKDwcB+AMCA1AGFdIQAAGk3QAKDwcD6AMCA1AGFdIQAAGgI6gBhxOC1AWCwlAGFdIQAAHr8WAKCAOBNAMCA6AGFdIQAAGgAAAAAAAAAASg==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,2,0</string>
+				<key>enable-hdmi-dividers-fix</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AAAAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
