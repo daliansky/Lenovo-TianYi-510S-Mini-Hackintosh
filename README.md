@@ -30,6 +30,8 @@
 
 关于`HDMI`显示输出：
 
+如果你的显示器没有`DP`接口，那么可以考虑购买一条`DP`转`HDMI`的线连接上就好了，也省得看下文了。
+
 - 小兵在测试的时候发现质量差的，版本低的`HDMI`线材是无法正确识别并点亮`HDMI`的显示输出。这个问题对小兵造成了很大的困扰，折腾了好些天。在跟因为黑苹果而结缘的法师的提醒下，他无偿赞助了我一根支持`HDMI` `v2.1` 支持到`8K@60Hz` / `4K@120Hz`的线材，到手后直接点亮`HDMI`显示器，估计支持`v2.0` `4K@60Hz`的线材也能正常使用，低于`v2.0`版本的可能就需要注入`EDID`值才能显示输出
 
   线材购买链接：https://item.jd.com/100008665276.html
@@ -66,6 +68,11 @@
 
 ![BigSur](./ScreenShots/BigSur.png)
 
+## QQ交流群：
+
+942112153 [天逸510s Mini黑苹果交流群](https://qm.qq.com/cgi-bin/qm/qr?k=N5cjw5ksrnmk-RMQ4fPCOo5D_Dxiu47B&jump_from=webapi) 1000人群 非专用机型请勿加入
+
 ## EFI下载
 
 https://github.com/daliansky/Lenovo-TianYi-510S-Mini-Hackintosh/releases/
+
