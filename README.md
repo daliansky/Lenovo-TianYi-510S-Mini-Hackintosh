@@ -76,7 +76,7 @@
 
 ![S510Mini](./ScreenShots/S510Mini.jpg)
 
-![ZSH](./ScreenShots/ZSH_10-26-2020.png)
+![ZSH](./ScreenShots/ZSH.png)
 
 ![Displays](./ScreenShots/Displays.png)
 
