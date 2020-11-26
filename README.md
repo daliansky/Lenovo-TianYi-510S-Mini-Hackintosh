@@ -29,6 +29,19 @@
   - 声卡驱动完美，包括显示器音频输出功能正常
   - 网卡驱动默认为：`DW1820A`，如果使用`INTEL`无线网卡请在配置文件中勾选三个驱动
 
+### 设置`BIOS`
+
+- 安全菜单：
+  - 安全启动 -> `关闭`  (*Disable Secure Boot*)
+- 高级菜单：
+  - `CFG Lock` -> `关闭` (*Disabling CFG Lock*)【相关BIOS请进群获取】
+- 设备：
+  - 显示设备
+    - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)
+  - ATA设备菜单：
+    - `配置SATA为` -> `AHCI`
+- 其它参数默认即可
+
 ## 备注：
 
 关于`HDMI`显示输出：
