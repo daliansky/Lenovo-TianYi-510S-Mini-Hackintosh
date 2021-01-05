@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19H15</string>
+	<string>20C69</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -29,19 +29,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>12A7403</string>
+	<string>12B45b</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>10.15.6</string>
+	<string>11.0</string>
 	<key>DTSDKBuild</key>
-	<string>19G68</string>
+	<string>20A2408</string>
 	<key>DTSDKName</key>
-	<string>macosx10.15</string>
+	<string>macosx11.0</string>
 	<key>DTXcode</key>
-	<string>1210</string>
+	<string>1220</string>
 	<key>DTXcodeBuild</key>
-	<string>12A7403</string>
+	<string>12B45b</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALCUserClientProvider</key>
@@ -65,6 +65,36 @@
 			<string>com.apple.driver.AppleHDAHardwareConfigDriver</string>
 			<key>HDAConfigDefault</key>
 			<array>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>agasecond - Realtek ALC256 (3246) for Xiaomi Pro Enhanced 2019</string>
+					<key>CodecID</key>
+					<integer>283902550</integer>
+					<key>ConfigData</key>
+					<data>
+					ASccIAEnHQEBJx6mAScfkAE3HPABNx0AATce
+					AAE3H0ABRxzwAUcdAAFHHgABRx9AAYcc8AGH
+					HQABhx4AAYcfQAGXHEABlx0QAZceqwGXHwQB
+					pxzwAacdAAGnHgABpx9AAbccEAG3HQEBtx4X
+					AbcfkAG3DAIB1xzwAdcdAAHXHgAB1x9AAecc
+					8AHnHQAB5x4AAecfQAIXHDACFx0QAhceKwIX
+					HwQCFwwCAgUAEAIEACACBQBGAgQwpA==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>69</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AbcMAgIXDAI=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>
@@ -840,6 +870,32 @@
 					<key>WakeConfigData</key>
 					<data>
 					AXcMAgGnByQCFwwC
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>ALC222 aka ALC3205-CG for HP EliteDesk 800 G6 Mini</string>
+					<key>CodecID</key>
+					<integer>283902498</integer>
+					<key>ConfigData</key>
+					<data>
+					AXccEAF3HQEBdx4XAXcfkAF3DAIBhxxAAYcd
+					AAGHHqABhx+QAhccUAIXHRACFx4hAhcfAgIX
+					DAI=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>11</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AXcMAg==
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
@@ -2782,6 +2838,32 @@
 					<key>WakeConfigData</key>
 					<data>
 					AUcMAgIXDAIBlwckAbcHJAIXCIM=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>Realtek ALC256 for Dell OptiPlex 7080</string>
+					<key>CodecID</key>
+					<integer>283902550</integer>
+					<key>ConfigData</key>
+					<data>
+					AUccEAFHHQEBRx4XAUcfkAGXHEABlx0QAZce
+					iwGXHwIBtxwgAbcdEAG3HgEBtx8BAhccMAIX
+					HRACFx4rAhcfAgFHDAIBtwwCAhcMAg==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>67</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AUcMAgG3DAICFwwC
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
