@@ -13,11 +13,15 @@
 |   显卡   |                  Intel HD Graphics CFL CRB                   |
 |  显示器  |                              无                              |
 |   声卡   |                        Realtek ALC235                        |
-|   网卡   | Intel AX201，已更换为 [DW1820A](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) |
+|   网卡   | Intel AX201，已更换为[BCM94360Z4](https://blog.daliansky.net/uploads/WeChatandShop.png) |
 
 ## 更新日志
 
-- 1-5-2020
+- 1-25-2021
+  - OpenCore `v0.6.6` 开发版
+  - Release `v1.5.0`
+  - 更新了新的[BCM94360Z4](https://blog.daliansky.net/uploads/WeChatandShop.png)驱动
+- 1-5-2021
   - OpenCore `v0.6.5`
   - Release `v1.4.0`
 - 12-25-2020
@@ -60,6 +64,8 @@
     - `配置SATA为` -> `AHCI`
   
 - 其它参数默认即可
+
+- `BIOS`进QQ群里取
 
 ## 备注：
 
