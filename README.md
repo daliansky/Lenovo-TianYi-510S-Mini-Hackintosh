@@ -117,6 +117,8 @@
 
 942112153 [天逸510s Mini黑苹果交流群](https://qm.qq.com/cgi-bin/qm/qr?k=N5cjw5ksrnmk-RMQ4fPCOo5D_Dxiu47B&jump_from=webapi) 1000人群 非专用机型请勿加入
 
+![WeChatandShop](ScreenShots/WeChatandShop.png)
+
 ## EFI下载
 
 https://github.com/daliansky/Lenovo-TianYi-510S-Mini-Hackintosh/releases/
