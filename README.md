@@ -17,7 +17,11 @@
 
 ## 更新日志
 
-- 1-25-2021
+- 5-13-2021 `v2.0.0`
+  - OpenCore `v0.6.9` Release
+  - USB端口定制，适配Big Sur 11.3.x
+  - 修复DP 音频输出
+- 1-25-2021 `v1.5.0`
   - OpenCore `v0.6.6` 开发版
   - Release `v1.5.0`
   - 更新了新的[BCM94360Z4](https://blog.daliansky.net/uploads/WeChatandShop.png)驱动
