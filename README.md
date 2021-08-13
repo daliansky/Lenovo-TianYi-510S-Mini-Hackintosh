@@ -17,6 +17,10 @@
 
 ## 更新日志
 
+- 8-13-2021 `v2.1.0`
+  - OpenCore `v0.7.1` Release
+  - 修复`HDMI`紫屏
+  - 其它驱动常规更新
 - 5-13-2021 `v2.0.0`
   - OpenCore `v0.6.9` Release
   - USB端口定制，适配Big Sur 11.3.x
