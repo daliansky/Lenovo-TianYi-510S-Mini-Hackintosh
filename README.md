@@ -21,6 +21,7 @@
   - `v2.2.0`
   - OpenCore `v0.7.5` Release
   - 更新对于 `Monterey` 的安装使用
+  - 修复声卡驱动，完美支持 `Monterey` 下使用
 - 8-13-2021 `v2.1.0`
   - OpenCore `v0.7.1` Release
   - 修复`HDMI`紫屏
