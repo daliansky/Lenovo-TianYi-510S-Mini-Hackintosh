@@ -17,6 +17,9 @@
 
 ## 更新日志
 
+- 2-14-2022
+  - `v2.3.0`
+  - OpenCore `v0.7.8` Release
 - 10-28-2021
   - `v2.2.0`
   - OpenCore `v0.7.5` Release
