@@ -5,7 +5,7 @@
 |   规格   |                           详细信息                           |
 | :------: | :----------------------------------------------------------: |
 | 电脑型号 |                  联想Lenovo 天逸 510S Mini                   |
-| 操作系统 |           macOS `Ventura` / `Monterey` / `Big Sur`           |
+| 操作系统 |     macOS `Sonoma` / `Ventura` / `Monterey` / `Big Sur`      |
 |  处理器  |                    英特尔 酷睿 i5 - 10400                    |
 |   内存   |                             16GB                             |
 |  硬盘1   |               SKhynix 256GB，已更换为WD SN750                |
@@ -17,6 +17,10 @@
 
 ## 更新日志
 
+- 10-20-2023
+  - 更新 `OpenCore` 到 `v0.9.5`
+  - 提供对 `Sonoma` 的初步支持
+  - 博通网卡需要使用 `OCLP` 打补丁，附：[教程链接](https://blog.daliansky.net/OCLP.html)
 - 11-4-2022
   - `v2.4.0`
   - OpenCore `v0.8.5` Release
