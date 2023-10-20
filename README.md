@@ -1,5 +1,9 @@
 # Lenovo 天逸 510S Mini Hackintosh
 
+![release version](https://img.shields.io/github/v/release/daliansky/Lenovo-TianYi-510S-Mini-Hackintosh?style=for-the-badge) 
+
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.5-informational.svg)![MacOS version](https://img.shields.io/badge/Sonoma-14.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.6-informational.svg)![MacOS version](https://img.shields.io/badge/Monterey-12.6.1%2021G115-informational.svg)
+
 ## 电脑配置
 
 |   规格   |                           详细信息                           |
