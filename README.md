@@ -2,14 +2,14 @@
 
 ![release version](https://img.shields.io/github/v/release/daliansky/Lenovo-TianYi-510S-Mini-Hackintosh?style=for-the-badge) 
 
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.5-informational.svg)![MacOS version](https://img.shields.io/badge/Sonoma-14.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)![MacOS version](https://img.shields.io/badge/Ventura-13.6-informational.svg)![MacOS version](https://img.shields.io/badge/Monterey-12.6.1%2021G115-informational.svg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg) ![MacOS Sequoia](https://img.shields.io/badge/Sequoia-informational.svg) ![MacOS Sonoma](https://img.shields.io/badge/Somona-informational.svg) ![MacOS Ventura](https://img.shields.io/badge/Ventura-informational.svg) [![MacOS Monterey](https://img.shields.io/badge/Monterey-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-informational.svg)](https://www.apple.com/macos)
 
 ## 电脑配置
 
 |   规格   |                           详细信息                           |
 | :------: | :----------------------------------------------------------: |
 | 电脑型号 |                  联想Lenovo 天逸 510S Mini                   |
-| 操作系统 |     macOS `Sonoma` / `Ventura` / `Monterey` / `Big Sur`      |
+| 操作系统 | macOS  `Sequoia` / `Sonoma` / `Ventura` / `Monterey` / `Big Sur` |
 |  处理器  |                    英特尔 酷睿 i5 - 10400                    |
 |   内存   |                             16GB                             |
 |  硬盘1   |               SKhynix 256GB，已更换为WD SN750                |
@@ -21,6 +21,11 @@
 
 ## 更新日志
 
+- 4-24-2025
+  - 全新重构 `EFI`
+  - 更新 `OpenCore` `v1.0.5`
+  - 修复 `TYPE-C` 端口功能不全
+  
 - 6-12-2024
   - 更新 `IOSkywalkFamily.kext` 到 `v1.1.0`
   - `Sonoma` 如果想更新到 `14.4` 请务必先更新 `EFI` ，然后再安装 [OCLP](https://pan.daliansky.net/APPS/OCLP/OCLP.md)，重启后，再升级到 `14.4` 否则会出现 `WIFI` 无法启用的问题
@@ -123,6 +128,8 @@
 - `EDID`值可以注入你自己的显示器，这样可以保证显示输出正常工作，至于如何提取`EDID`值，请移步博客或者通过谷歌搜索寻找答案
 
 ## 截屏
+
+![OpenCore](./ScreenShots/OpenCore.png)
 
 ![S510Mini](./ScreenShots/S510Mini.jpg)
 
