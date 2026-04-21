@@ -9,7 +9,7 @@
 |   规格   |                           详细信息                           |
 | :------: | :----------------------------------------------------------: |
 | 电脑型号 |                  联想Lenovo 天逸 510S Mini                   |
-| 操作系统 | macOS  `Sequoia` / `Sonoma` / `Ventura` / `Monterey` / `Big Sur` |
+| 操作系统 | macOS `Tahoe` / `Sequoia` / `Sonoma` / `Ventura` / `Monterey` / `Big Sur` |
 |  处理器  |                    英特尔 酷睿 i5 - 10400                    |
 |   内存   |                             16GB                             |
 |  硬盘1   |               SKhynix 256GB，已更换为WD SN750                |
@@ -21,11 +21,14 @@
 
 ## 更新日志
 
+- 4-21-2026
+  - 更新 `OpenCore` `v1.0.8` MOD
+  - 支持 `Tahoe`
+  
 - 4-24-2025
   - 全新重构 `EFI`
   - 更新 `OpenCore` `v1.0.5`
   - 修复 `TYPE-C` 端口功能不全
-  
 - 6-12-2024
   - 更新 `IOSkywalkFamily.kext` 到 `v1.1.0`
   - `Sonoma` 如果想更新到 `14.4` 请务必先更新 `EFI` ，然后再安装 [OCLP](https://pan.daliansky.net/APPS/OCLP/OCLP.md)，重启后，再升级到 `14.4` 否则会出现 `WIFI` 无法启用的问题
